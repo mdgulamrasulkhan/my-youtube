@@ -14,8 +14,8 @@ description:
 # After Click on a Video Card
 ![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/f0fb79b21362e321cb028109df22a16553f277be/Screenshot%202025-07-14%20145455.png)
 
-
-![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/5253fb59ce933314e9d0232447c86d9799e21dbb/Screenshot%202025-07-14%20145316.png)
+#nested comment design
+![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/fea88aea011b14b2a35399c3b6a911b528b10761/Screenshot%202025-07-14%20145518.png)
 
 ![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/5253fb59ce933314e9d0232447c86d9799e21dbb/Screenshot%202025-07-14%20145316.png)
 
