@@ -8,7 +8,8 @@ description:
 
 ![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/5253fb59ce933314e9d0232447c86d9799e21dbb/Screenshot%202025-07-14%20145316.png)
 
-![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/5253fb59ce933314e9d0232447c86d9799e21dbb/Screenshot%202025-07-14%20145316.png)
+#Search suggestions
+![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/e81b9b10c41bfaf57966e73cfe9d7786826f7ef7/Screenshot%202025-07-14%20145410.png)
 
 ![image alt](https://github.com/mdgulamrasulkhan/my-youtube/blob/5253fb59ce933314e9d0232447c86d9799e21dbb/Screenshot%202025-07-14%20145316.png)
 
