@@ -4,7 +4,7 @@ description:
 
 
 
-![Alt Text]([assets/my-image.png](https://github.com/mdgulamrasulkhan/my-youtube/blob/6fd7d54700a452d3319d3709d401c50fde9a65d0/Screenshot%202025-07-14%20145316.png)
+![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/e40c3dad7c41e4ec82cc36ed41ac840da234690e/Screenshot%202025-06-27%20182029.png)
 
 ![Alt Text](assets/my-image.png)
 
